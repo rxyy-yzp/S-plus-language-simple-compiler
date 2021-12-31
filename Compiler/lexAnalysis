@@ -1,0 +1,25 @@
+16        {        {
+1        int        int
+7        a        ID
+15        ;        ;
+1        int        int
+7        b        ID
+15        ;        ;
+16        {        {
+Errors break in line 5
+14        =        =
+8        10        NUM
+15        ;        ;
+Errors break in line 6
+18        (        (
+7        a        ID
+13        >        relop
+8        0        NUM
+19        )        )
+Errors break in line 7
+7        b        ID
+14        =        =
+7        a        ID
+17        }        }
+17        }        }
+0        #        #
